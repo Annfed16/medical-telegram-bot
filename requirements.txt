@@ -1,4 +1,4 @@
-# Основные зависимости
+# Основные зависимости для Telegram-бота и работы с Excel
 python-telegram-bot==20.8
 pandas==2.2.2
 openpyxl==3.1.5
